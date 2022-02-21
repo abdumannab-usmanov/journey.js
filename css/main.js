@@ -1,6 +1,6 @@
 var money = (9647716)
 var a = money
-var b = prompt ('how much money do you have')
+var b = prompt ('How much money do you have ?')
 
 
 if (money <= b
